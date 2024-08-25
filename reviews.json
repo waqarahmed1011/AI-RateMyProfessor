@@ -2,123 +2,123 @@
   "reviews": [
     {
       "professor": "Dr. Jane Smith",
-      "subject": "Introduction to Psychology",
-      "stars": 5,
-      "review": "Dr. Smith is an amazing professor! Her lectures are engaging and she truly cares about her students."
+      "subject": "Computer Science",
+      "stars": 4,
+      "review": "Dr. Smith is very knowledgeable and her lectures are well-organized. The coursework is challenging but fair."
     },
     {
       "professor": "Dr. John Doe",
-      "subject": "Calculus I",
-      "stars": 4,
-      "review": "Good professor, but the material can be tough. He is very knowledgeable and helpful during office hours."
-    },
-    {
-      "professor": "Dr. Emily Brown",
-      "subject": "World History",
+      "subject": "Mathematics",
       "stars": 3,
-      "review": "Her lectures are informative, but sometimes a bit dry. Exams are fair, but require a lot of studying."
+      "review": "Dr. Doe knows his stuff, but his lectures can be a bit dry. Office hours are very helpful though."
     },
     {
-      "professor": "Dr. Michael Lee",
-      "subject": "Organic Chemistry",
+      "professor": "Dr. Emily Johnson",
+      "subject": "Physics",
+      "stars": 5,
+      "review": "Dr. Johnson is an amazing professor! She makes complex concepts easy to understand and is always willing to help."
+    },
+    {
+      "professor": "Dr. Michael Brown",
+      "subject": "History",
       "stars": 2,
-      "review": "Very difficult class with a lot of material to cover. Dr. Lee is knowledgeable but not very approachable."
+      "review": "Dr. Brown's lectures are hard to follow, and his grading is harsh. Be prepared to read a lot."
     },
     {
-      "professor": "Dr. Sarah Johnson",
+      "professor": "Dr. Susan Lee",
+      "subject": "Biology",
+      "stars": 4,
+      "review": "Dr. Lee is a great professor who cares about her students. Her exams are tough, but she's fair in her grading."
+    },
+    {
+      "professor": "Dr. William Garcia",
+      "subject": "Chemistry",
+      "stars": 5,
+      "review": "Dr. Garcia is the best! His experiments are interesting and he makes sure everyone understands the material."
+    },
+    {
+      "professor": "Dr. Elizabeth Martinez",
       "subject": "English Literature",
-      "stars": 5,
-      "review": "Wonderful professor! She makes literature come alive and is always open to student interpretations."
-    },
-    {
-      "professor": "Dr. David Williams",
-      "subject": "Physics II",
-      "stars": 4,
-      "review": "Challenging course, but Dr. Williams is excellent at explaining complex concepts. Labs are a bit intense."
-    },
-    {
-      "professor": "Dr. Laura Davis",
-      "subject": "Microeconomics",
       "stars": 3,
-      "review": "The class is alright, but sometimes the lectures can be hard to follow. Dr. Davis is helpful if you ask questions."
+      "review": "Dr. Martinez is passionate about literature, but sometimes gets off-topic. Her assignments are quite creative."
     },
     {
-      "professor": "Dr. Robert Martinez",
-      "subject": "Statistics",
-      "stars": 4,
-      "review": "Good professor with clear explanations. The homework assignments are challenging but manageable."
-    },
-    {
-      "professor": "Dr. Linda Clark",
-      "subject": "Art History",
-      "stars": 5,
-      "review": "Dr. Clark is passionate about art and it shows in her teaching. Her exams are straightforward and fair."
-    },
-    {
-      "professor": "Dr. Paul Walker",
-      "subject": "Computer Science 101",
-      "stars": 2,
-      "review": "The material is difficult for beginners. Dr. Walker moves quickly and expects you to keep up on your own."
-    },
-    {
-      "professor": "Dr. Angela Harris",
-      "subject": "Biology I",
-      "stars": 4,
-      "review": "Interesting class with lots of hands-on activities. Dr. Harris is very knowledgeable and approachable."
-    },
-    {
-      "professor": "Dr. Kevin Young",
+      "professor": "Dr. James Wilson",
       "subject": "Political Science",
-      "stars": 3,
-      "review": "Dr. Young is an okay professor. The lectures are a bit boring, but the exams are fair."
+      "stars": 4,
+      "review": "Dr. Wilson is very engaging and brings real-world examples into his lectures. His tests are challenging but fair."
     },
     {
-      "professor": "Dr. Susan King",
+      "professor": "Dr. Linda Anderson",
+      "subject": "Philosophy",
+      "stars": 2,
+      "review": "Dr. Anderson's lectures are very theoretical and sometimes hard to understand. Be prepared for a lot of reading."
+    },
+    {
+      "professor": "Dr. Robert Thomas",
       "subject": "Sociology",
       "stars": 5,
-      "review": "Amazing professor! Dr. King is passionate about sociology and makes the class very engaging."
+      "review": "Dr. Thomas is an excellent professor. He encourages class discussions and is very approachable."
     },
     {
-      "professor": "Dr. Steven Scott",
-      "subject": "Human Anatomy",
-      "stars": 4,
-      "review": "Tough class, but Dr. Scott is excellent at breaking down complex topics. Labs are well-organized."
-    },
-    {
-      "professor": "Dr. Karen Baker",
-      "subject": "Philosophy 101",
-      "stars": 2,
-      "review": "Dr. Baker's lectures are hard to follow. The material is interesting, but her teaching style is confusing."
-    },
-    {
-      "professor": "Dr. Charles White",
-      "subject": "Environmental Science",
-      "stars": 5,
-      "review": "Fantastic professor with a deep passion for the environment. The class projects are creative and impactful."
-    },
-    {
-      "professor": "Dr. Patricia Green",
-      "subject": "Chemistry I",
+      "professor": "Dr. Karen Miller",
+      "subject": "Psychology",
       "stars": 3,
-      "review": "The class is challenging, but Dr. Green is always willing to help. The lab work is extensive."
+      "review": "Dr. Miller's lectures are interesting, but her exams are difficult. She offers extra credit opportunities."
     },
     {
-      "professor": "Dr. Richard Moore",
-      "subject": "Marketing",
+      "professor": "Dr. Charles Taylor",
+      "subject": "Economics",
       "stars": 4,
-      "review": "Good professor who knows the subject well. The class involves a lot of group work, which can be hit or miss."
+      "review": "Dr. Taylor is a good professor who explains concepts clearly. His homework assignments are very helpful."
     },
     {
-      "professor": "Dr. Barbara Adams",
-      "subject": "Anthropology",
-      "stars": 4,
-      "review": "Dr. Adams is an engaging professor. Her classes are interactive and she encourages participation."
-    },
-    {
-      "professor": "Dr. Christopher Nelson",
-      "subject": "Business Law",
+      "professor": "Dr. Patricia White",
+      "subject": "Art History",
       "stars": 5,
-      "review": "Excellent professor with real-world experience. The class is challenging but very rewarding."
+      "review": "Dr. White is very passionate about art and her enthusiasm is contagious. Her assignments are both fun and educational."
+    },
+    {
+      "professor": "Dr. Mark Harris",
+      "subject": "Music Theory",
+      "stars": 2,
+      "review": "Dr. Harris knows a lot about music, but his teaching style is not very engaging. It's hard to stay focused in his class."
+    },
+    {
+      "professor": "Dr. Nancy Clark",
+      "subject": "Environmental Science",
+      "stars": 4,
+      "review": "Dr. Clark is very knowledgeable and her field trips are amazing. The workload is heavy, but manageable."
+    },
+    {
+      "professor": "Dr. Kevin Lewis",
+      "subject": "Engineering",
+      "stars": 5,
+      "review": "Dr. Lewis is a fantastic professor! He makes difficult concepts easy to understand and is very supportive."
+    },
+    {
+      "professor": "Dr. Barbara Robinson",
+      "subject": "Statistics",
+      "stars": 3,
+      "review": "Dr. Robinson's class is okay. The material is tough, but she provides plenty of resources to help."
+    },
+    {
+      "professor": "Dr. Joseph Walker",
+      "subject": "Business Administration",
+      "stars": 4,
+      "review": "Dr. Walker is a great professor who brings real-world experience into the classroom. His exams are fair."
+    },
+    {
+      "professor": "Dr. Laura Hall",
+      "subject": "Marketing",
+      "stars": 5,
+      "review": "Dr. Hall's classes are engaging and insightful. She is always willing to help students outside of class."
+    },
+    {
+      "professor": "Dr. Thomas Young",
+      "subject": "Anthropology",
+      "stars": 3,
+      "review": "Dr. Young's lectures are informative, but he can be a bit monotone. His exams are straightforward."
     }
   ]
 }
