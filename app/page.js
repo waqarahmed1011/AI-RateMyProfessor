@@ -98,7 +98,7 @@ export default function Home() {
           onChange={(e) => {
             setMessage(e.target.value)
           }} />
-        <Button variant='contained' conClick={sendMessage}>
+        <Button variant='contained' onClick={sendMessage}>
           Send
         </Button>
       </Stack>
